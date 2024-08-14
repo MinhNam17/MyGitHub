@@ -1,0 +1,5 @@
+Là một nền tảng mạnh mẽ để kiểm soát và bảo mật các API trong hệ thống
+Giám sát
+Tăng cường bảo mật
+Hiệu suất
+mở rộng

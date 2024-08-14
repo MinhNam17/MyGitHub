@@ -1,0 +1,23 @@
+new project
+
+init
+add
+commit
+push
+
+new brach
+ten brach
+nhanh moi
+commit
+push
+review
+sua
+push
+merge
+
+fix conflig
+
+review
+
+ignore
+cccccddddd

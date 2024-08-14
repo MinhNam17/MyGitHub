@@ -1,0 +1,5 @@
+Tự động hóa việc triển khai và phát triển
+Giúp việc triển khai và quản lý trở nên dễ dàng  và có thể mở rộng
+Tự động triển khai
+Mở rộng
+Tự hồi phục
